@@ -1,0 +1,19 @@
+# Environments
+myenv/
+env/
+venv/
+.env
+
+# Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.stk_cache/
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
